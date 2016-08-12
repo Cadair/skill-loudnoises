@@ -1,6 +1,8 @@
-# opsdroid skill hello
+# opsdroid skill loudnoises
 
-A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to respond to hello and goodbye messages.
+A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to respond to messages written in all caps.
+
+![LOUD NOISES](http://i.imgur.com/auk7p8z.jpg)
 
 ## Requirements
 
@@ -12,21 +14,13 @@ None.
 
 ## Usage
 
-#### `hello`
+#### `HELLO`
 
-Says hello to the user.
+Responds to any message in all caps with a meme.
 
-> user: hello
+> user: HELLO
 >
-> opsdroid: Hi user
-
-#### `goodbye`
-
-Says goodbye to the user.
-
-> user: bye
->
-> opsdroid: Bye user
+> opsdroid: http://i.imgur.com/auk7p8z.jpg
 
 ## License
 
