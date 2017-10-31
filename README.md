@@ -21,7 +21,3 @@ Responds to any message in all caps with a meme.
 > user: HELLO
 >
 > opsdroid: http://i.imgur.com/auk7p8z.jpg
-
-## License
-
-GNU General Public License Version 3 (GPLv3)
